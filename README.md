@@ -10,7 +10,7 @@
 
 👉 https://itianci.github.io/patent-scope-matcher/
 
-> 无需安装，打开即可体验核心功能（建议使用 Chrome 浏览器）
+> 无需安装，打开即可体验核心功能（建议使用 Chrome 浏览器,默认账号：admin / admin123）
 
 ---
 

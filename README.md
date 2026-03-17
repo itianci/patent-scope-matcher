@@ -5,6 +5,15 @@
 
 ---
 
+
+## 🌐 在线 Demo
+
+👉 https://itianci.github.io/patent-scope-matcher/
+
+> 无需安装，打开即可体验核心功能（建议使用 Chrome 浏览器）
+
+---
+
 ## 📋 功能概览
 
 ### 🏠 工作台
